@@ -86,7 +86,7 @@ python-distutils-extra==2.39
 python-xlib==0.24
 pytoml==0.1.20
 pyxdg==0.26
-PyYAML==3.13
+PyYAML==5.4
 pyzmq==18.0.1
 qtconsole==4.4.3
 reportlab==3.5.13

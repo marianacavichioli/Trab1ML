@@ -50,7 +50,7 @@ Markdown==3.1
 MarkupSafe==1.1.1
 mccabe==0.6.1
 menulibre==2.2.0
-mistune==0.8.4
+mistune==2.0.3
 msgpack==0.6.1
 mugshot==0.4.1
 nbconvert==5.4.0
